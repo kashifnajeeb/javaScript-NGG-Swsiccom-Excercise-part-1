@@ -1,7 +1,6 @@
 //---------------------------------------------
 //  Multiply without multiplication operator
 //---------------------------------------------
-
 /**
  * Multiply two numbers.
  * @param {number} num1 - The first number.

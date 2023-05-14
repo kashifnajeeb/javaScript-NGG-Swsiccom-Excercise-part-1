@@ -1,3 +1,6 @@
+//---------------------------------------------
+//  Fruit Preference
+//---------------------------------------------
 class FruitPreference {
   constructor(fruits) {
     this.fruits = fruits;
